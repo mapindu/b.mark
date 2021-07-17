@@ -27,9 +27,9 @@ include "layouts/header.php";
 <div class="wpb_column tm-column vc_column_container vc_col-sm-5 tm-zindex-0 margin-15px-991-colum">
 	<div class="vc_column-inner vc_custom_1598358848754 ">
 				<div class="wpb_wrapper">
-			<div class="tm-element-heading-wrapper tm-heading-inner tm-element-align-left tm-seperator-solid tm-heading-style-vertical "><section class="tm-vc_cta3-container"><div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-with-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><header class="tm-vc_cta3-content-header tm-wrap"><div class="tm-vc_cta3-headers tm-wrap-cell"><h4 class="tm-custom-heading " >Welcome to Vemlo</h4>
-<h2 class="tm-custom-heading " >Experienced Sign and Graphic Professionals</h2>
-</div><div class="heading-seperator"><span></span></div></header><div class="tm-cta3-content-wrapper"><p>Connecticut since 1965, Vemlo Signage brings more than 50 years of experience in design, <a href="#"><u>manufacture and installation</u></a>. It began as a hand-crafted sign shop of the high-quality for indoor &amp; outdoor signage.</p></div></div></div></div></section></div> <!-- .tm-element-heading-wrapper container --> 		</div>
+			<div class="tm-element-heading-wrapper tm-heading-inner tm-element-align-left tm-seperator-solid tm-heading-style-vertical "><section class="tm-vc_cta3-container"><div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-with-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><header class="tm-vc_cta3-content-header tm-wrap"><div class="tm-vc_cta3-headers tm-wrap-cell"><h4 class="tm-custom-heading " >Welcome to B-Mark</h4>
+<h2 class="tm-custom-heading " >A Business Without A Sign is A Sign Of No Business</h2>
+</div><div class="heading-seperator"><span></span></div></header><div class="tm-cta3-content-wrapper"><p>Dazzle your Clients or Customers with an Amazing Look. Quality, appealing Signage & Branding attracts new customers, <span style="color:#ff6229;"><strong>Be Seen, Be Known!</strong></span></p><p>When it comes to your company’s signage and branding, you only have one chance to make a first impression, make yours count with B-Mark Creations amazing  quality services.We Serve you Both time and money .No projects is too small or too big for us to handle.</p></div></div></div></div></section></div> <!-- .tm-element-heading-wrapper container --> 		</div>
 	</div>
 </div>
 
@@ -162,14 +162,14 @@ Your Business</h2>
 				<span
 			data-appear-animation = "animateDigits"
 			data-from             = "0"
-			data-to               = "15"
-			data-interval         = "3"
+			data-to               = "4"
+			data-interval         = "1"
 			data-before           = ""
 			data-before-style     = "sup"
 			data-after            = ""
 			data-after-style      = "sub"
 			>
-				15		</span>
+				4		</span>
 			</h4>
 		<h3 class="tm-fid-title"><span>Years<br />
 Experience<br />
@@ -221,7 +221,7 @@ Working<br></span></h3>
 		 
 		<div class="wpb_wrapper">
 			<div class="tm-element-heading-wrapper tm-heading-inner tm-element-align-left tm-seperator-solid tm-heading-style-vertical "><section class="tm-vc_cta3-container"><div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-without-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><header class="tm-vc_cta3-content-header tm-wrap"><div class="tm-vc_cta3-headers tm-wrap-cell"><h4 class="tm-custom-heading " >Great Services</h4>
-<h2 class="tm-custom-heading " >A Comprehensive Guide to Various Types of Signage</h2>
+<h2 class="tm-custom-heading " >A Comprehensive Guide to Various Types of Signage &amp; Branding</h2>
 </div><div class="heading-seperator"><span></span></div></header></div></div></div></section></div> <!-- .tm-element-heading-wrapper container --> 		</div>
 	</div>
 </div>
@@ -294,16 +294,47 @@ Working<br></span></h3>
 			</div>
 			<div class="themetechmount-iconbox-heading">
 				<div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-without-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><div class="tm-vc_cta3-headers tm-wrap-cell"><h2 class="tm-custom-heading ">LED Digital Signage</h2>
-</div><div class="heading-seperator"><span></span></div></div></div></div>				<div class="tm-cta3-content-wrapper">These dimensional signs come with loads of options &amp; designs.</div>							</div>	
-						<div class="box-plus-icon">	
-					<a href="#" rel="bookmark"><i class="tm-vemlo-icon-plus"></i></a>		
-			</div>
+</div><div class="heading-seperator"><span></span></div></div></div></div>				<div class="tm-cta3-content-wrapper">These dimensional signs come with loads of options &amp; designs.</div>							</div>
+
+
+
+
+					
 					</div>
 	</div>	
 </div>
 		</div>
 	</div>
 </div>
+
+
+<div class="wpb_column tm-column-inner vc_column_container vc_col-sm-4 tm-zindex-0">
+	<div class="vc_column-inner  ">
+		 
+		<div class="wpb_wrapper">
+			<div class="themetechmount-iconbox themetechmount-iconbox-styleone ">
+	<div class="themetechmount-iconbox-inner">
+		<div class="tm-iconbox-wrapper">
+			<div class="themetechmount-iconbox-icon ">
+			
+				<div class="tm-box-icon"><i class="themifyicon ti-home"></i></div>				
+			</div>
+			<div class="themetechmount-iconbox-heading">
+				<div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-without-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><div class="tm-vc_cta3-headers tm-wrap-cell"><h2 class="tm-custom-heading ">Premise Branding</h2>
+</div><div class="heading-seperator"><span></span></div></div></div></div>				<div class="tm-cta3-content-wrapper">These dimensional signs come with loads of options &amp; designs.</div>							</div>
+
+
+
+
+					
+					</div>
+	</div>	
+</div>
+		</div>
+	</div>
+</div>
+
+
 
 
 <div class="wpb_column tm-column-inner vc_column_container vc_col-sm-4 tm-zindex-0">
@@ -330,8 +361,34 @@ Working<br></span></h3>
 	</div>
 </div>
 
+<div class="wpb_column tm-column-inner vc_column_container vc_col-sm-4 tm-zindex-0">
+	<div class="vc_column-inner  " style="margin-top:  30px;">
+		 
+		<div class="wpb_wrapper">
+			<div class="themetechmount-iconbox themetechmount-iconbox-styleone ">
+	<div class="themetechmount-iconbox-inner">
+		<div class="tm-iconbox-wrapper">
+			<div class="themetechmount-iconbox-icon ">
+			
+				<div class="tm-box-icon"><i class="themifyicon ti-car"></i></div>				
+			</div>
+			<div class="themetechmount-iconbox-heading">
+				<div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-without-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><div class="tm-vc_cta3-headers tm-wrap-cell"><h2 class="tm-custom-heading ">Vehicle Branding</h2>
+</div><div class="heading-seperator"><span></span></div></div></div></div>				<div class="tm-cta3-content-wrapper">These dimensional signs come with loads of options &amp; designs.</div>							</div>
 
-<div class="wpb_column tm-column-inner vc_column_container vc_col-sm-4 vc_col-has-fill tm-zindex-0">
+
+
+
+					
+					</div>
+	</div>	
+</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="wpb_column tm-column-inner vc_column_container vc_col-sm-4 vc_col-has-fill tm-zindex-0" style="margin-top: 30px;">
 	<div class="vc_column-inner vc_custom_1598591120875 tm-col-bgimage-yes tm-responsive-custom-33221022">
 		<div class="tm-col-wrapper-bg-layer tm-bg-layer"><div class="tm-bg-layer-inner"></div></div> 
 		<div class="wpb_wrapper">
@@ -355,10 +412,138 @@ Working<br></span></h3>
 
 
 
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="tm-row wpb_row vc_row-fluid vc_custom_1598360354588 tm-responsive-custom-38869318 vc_row-has-fill vc_column-gap-default tm-overlap-row tm-zindex-0 tm-bgimage-position-center_center tm-bg tm-bgimage-yes">
+
+			<div class="tm-row-wrapper-bg-layer tm-bg-layer"></div><!-- ThemetechMount custom DIV added -->
+		
+	 <div class="vc_row container vc_column-gap-default"> 	
+		
+
+<div class="wpb_column tm-column vc_column_container vc_col-sm-12 tm-zindex-0">
+	<div class="vc_column-inner  ">
+				<div class="wpb_wrapper">
+			<div class="themetechmount-boxes themetechmount-boxes-portfolio themetechmount-boxes-view-default themetechmount-boxes-col-three themetechmount-boxes-sortable-yes themetechmount-boxes-textalign-left tm-cta3-rev-heading">
+		<div class="themetechmount-boxes-inner themetechmount-boxes-portfolio-inner "><div class="themetechmount-box-heading-wrapper tm-element-align-left"><div class="tm-element-heading-wrapper tm-heading-inner tm-element-align-left tm-seperator-solid tm-heading-style-vertical "><section class="tm-vc_cta3-container"><div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-without-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><header class="tm-vc_cta3-content-header tm-wrap"><div class="tm-vc_cta3-headers tm-wrap-cell"><h4 class="tm-custom-heading " >Recently Completed</h4>
+<h2 class="tm-custom-heading " >Our Latest Projects</h2>
+</div><div class="heading-seperator"><span></span></div></header></div></div></div></section></div> <!-- .tm-element-heading-wrapper container --> </div> <!-- .tm-element-heading-wrapper container --> 
+				<div class="tm-sortable-wrapper tm-sortable-wrapper-portfolio"><nav class="tm-sortable-list"><ul><li class="tm-sortable-link tm-sortable-all-link"><a class="selected" href="javascript:void(0);" data-filter="*"> All </a></li><li class="tm-sortable-link"><a href="javascript:void(0);" data-filter=".banners">Premise Branding</a></li><li class="tm-sortable-link"><a href="javascript:void(0);" data-filter=".commercial">Signage</a></li><li class="tm-sortable-link"><a href="javascript:void(0);" data-filter=".residential">Vehicle Branding</a></li><li class="tm-sortable-link" style="visibility: hidden;"><a href="javascript:void(0);" data-filter=".printing">Printing</a></li></ul></nav></div>
+				<div class="row multi-columns-row themetechmount-boxes-row-wrapper tm-box-masnory">
+					<!-- signage -->
+					<div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 banners commercial"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
+	<div class="themetechmount-post-item">	
+		<div class="themetechmount-post-item-inner">
+			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="#!"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/portfolio-02-1200x800-1-700x635.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2036" /></a></div>			<div class="themetechmount-box-overlay">
+				<div class="themetechmount-box-content tm-textwhite">						
+											<div class="themetechmount-box-category"><a href="#!" rel="tag">Premise</a>, <a href="#!" rel="tag">Branding</a></div>
+						
+					
+					<div class="themetechmount-box-title"><h4><a href="#!">Steers</a></h4></div>					
+				</div>
+			</div>
+		</div>		
+
+	</div>
+</article></div><div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 banners residential"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
+	<div class="themetechmount-post-item">	
+		<div class="themetechmount-post-item-inner">
+			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="portfolio/business-card-design/index.html"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/portfolio-01-1200x800-1-700x635.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2044" /></a></div>			<div class="themetechmount-box-overlay">
+				<div class="themetechmount-box-content tm-textwhite">						
+											<div class="themetechmount-box-category"><a href="#!" rel="tag">Signage</a></div>
+						
+					
+					<div class="themetechmount-box-title"><h4><a href="portfolio/business-card-design/index.html">Mobility</a></h4></div>					
+				</div>
+			</div>
+		</div>		
+
+	</div>
+</article></div><div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 printing residential"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
+	<div class="themetechmount-post-item">	
+		<div class="themetechmount-post-item-inner">
+			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="#!"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/simplex.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2084" /></a></div>			<div class="themetechmount-box-overlay">
+				<div class="themetechmount-box-content tm-textwhite">						
+											<div class="themetechmount-box-category"><a href="#!" rel="tag">Vehicle</a>, <a href="#!" rel="tag">Branding</a></div>
+						
+					
+					<div class="themetechmount-box-title"><h4><a href="#!">Simplex Pools</a></h4></div>					
+				</div>
+			</div>
+		</div>		
+
+	</div>
+</article></div>
+<div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 printing residential"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
+	<div class="themetechmount-post-item">	
+		<div class="themetechmount-post-item-inner">
+			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="#!"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/post-009-700x635.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2084" /></a></div>			<div class="themetechmount-box-overlay">
+				<div class="themetechmount-box-content tm-textwhite">						
+											<div class="themetechmount-box-category"><a href="#!" rel="tag">Vehicle</a>, <a href="#!" rel="tag">Branding</a></div>
+						
+					
+					<div class="themetechmount-box-title"><h4><a href="#!">Defhome Maintenance</a></h4></div>					
+				</div>
+			</div>
+		</div>		
+
+	</div>
+</article></div><div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 printing residential"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
+	<div class="themetechmount-post-item">	
+		<div class="themetechmount-post-item-inner">
+			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="#!"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/taletso.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2084" /></a></div>			<div class="themetechmount-box-overlay">
+				<div class="themetechmount-box-content tm-textwhite">						
+											<div class="themetechmount-box-category"><a href="#!" rel="tag">Premise</a>, <a href="#!" rel="tag">Branding</a></div>
+						
+					
+					<div class="themetechmount-box-title"><h4><a href="#!">Taletso TVET College </a></h4></div>					
+				</div>
+			</div>
+		</div>		
+
+	</div>
+</article></div><div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 banners residential"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
+	<div class="themetechmount-post-item">	
+		<div class="themetechmount-post-item-inner">
+			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="#!"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/post-05-700x635.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2072" /></a></div>			<div class="themetechmount-box-overlay">
+				<div class="themetechmount-box-content tm-textwhite">						
+											<div class="themetechmount-box-category"><a href="#!" rel="tag">Signage</a></div>
+						
+					
+					<div class="themetechmount-box-title"><h4><a href="#!">Cafe Bonjour</a></h4></div>					
+				</div>
+			</div>
+		</div>		
+
+	</div>
+</article></div>
+<!-- <div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 commercial printing"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
+	<div class="themetechmount-post-item">	
+		<div class="themetechmount-post-item-inner">
+			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="portfolio/letterhead-design/index.html"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/portfolio-04-1200x800-1-700x635.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2050" /></a></div>			<div class="themetechmount-box-overlay">
+				<div class="themetechmount-box-content tm-textwhite">						
+											<div class="themetechmount-box-category"><a href="#!" rel="tag">Commercial</a>, <a href="#!" rel="tag">Printing</a></div>
+						
+					
+					<div class="themetechmount-box-title"><h4><a href="portfolio/letterhead-design/index.html">Letterhead Design</a></h4></div>					<a href="portfolio/letterhead-design/index.html" class="themetechmount_pf_link"><i class="tm-vemlo-icon-arrow-right"></i></a>
+				</div>
+			</div>
+		</div>		
+
+	</div>
+</article></div> -->
+
+				</div>
+			</div><!-- .themetechmount-boxes-inner -->   </div><!-- .themetechmount-boxes -->  		</div>
+	</div>
+</div>
 
 
 
+		
+	 </div> </div>
 
+
+
+<div class="vc_row-full-width vc_clearfix"></div>
 
 <div data-vc-full-width="true" data-vc-full-width-init="false" class="tm-row wpb_row vc_row-fluid vc_custom_1598360076902 vc_column-gap-default break-991-colum tm-zindex-1 tm-bgimage-position-center_center">
 
@@ -439,7 +624,7 @@ About</h2>
 			
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<p><span style="font-size: 28px; color: #ffffff;">We Are Your One Stop <strong><u><a style="color: #ffffff;" href="shop/index.html">Signage Shop</a></u></strong></span>.</p>
+			<p><span style="font-size: 28px; color: #ffffff;">We Are Your One Stop <strong><u><a style="color: #ffffff;" href="shop/index.html">Signage and Branding Shop</a></u></strong></span>.</p>
 
 		</div>
 	</div>
@@ -458,7 +643,7 @@ About</h2>
 		<div class="wpb_wrapper">
 			<div class="themetechmount-boxes themetechmount-boxes-steps themetechmount-boxes-view-default themetechmount-boxes-col-one themetechmount-boxes-sortable- themetechmount-boxes-textalign-left tm-cta3-rev-heading">
 		<div class="themetechmount-boxes-inner themetechmount-boxes-steps-inner "><div class="themetechmount-box-heading-wrapper tm-element-align-left"><div class="tm-element-heading-wrapper tm-heading-inner tm-element-align-left tm-seperator-solid tm-heading-style-vertical "><section class="tm-vc_cta3-container"><div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-with-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><header class="tm-vc_cta3-content-header tm-wrap"><div class="tm-vc_cta3-headers tm-wrap-cell"><h4 class="tm-custom-heading " >Why Choose Us</h4>
-<h2 class="tm-custom-heading " >Signage Designing Is In Our Blood</h2>
+<h2 class="tm-custom-heading " >Signage &amp; Branding Designing Is In Our Blood</h2>
 </div><div class="heading-seperator"><span></span></div></header><div class="tm-cta3-content-wrapper"><p>We strive to exceed industry standards by providing our clients with <strong><em><u>superior signage solutions</u></em></strong> through in-house custom design fabrication, and installation</p></div></div></div></div></section></div> <!-- .tm-element-heading-wrapper container --> </div> <!-- .tm-element-heading-wrapper container --> <div class="row multi-columns-row themetechmount-boxes-row-wrapper"><div class="tm-box-col-wrapper col-lg-12 col-sm-12 col-md-12 col-xs-12 ">
 						<div class="tm-static-box-wrapper tm-steps-box steps-style2">
 							<div class="tm-static-box-content" >
@@ -467,7 +652,7 @@ About</h2>
 									  <span>1</span>
 									</div>
 									<div class="tm-steps-desc">
-									<h3 class="tm-custom-heading">Verified Professional Since,1965</h3>
+									<h3 class="tm-custom-heading">Verified Professional Since,2017</h3>
 									<div class="tm-item-desc">We are following fundamentals which are the pillar of the company since it’s establishment.</div>		
 									</div>
 								</div>
@@ -502,249 +687,6 @@ About</h2>
 		
 	 </div> </div>
 
-
-<div class="vc_row-full-width vc_clearfix"></div>
-
-
-
-
-
-
-
-
-<div data-vc-full-width="true" data-vc-full-width-init="false" class="tm-row wpb_row vc_row-fluid vc_custom_1598360354588 tm-responsive-custom-38869318 vc_row-has-fill vc_column-gap-default tm-overlap-row tm-zindex-0 tm-bgimage-position-center_center tm-bg tm-bgimage-yes">
-
-			<div class="tm-row-wrapper-bg-layer tm-bg-layer"></div><!-- ThemetechMount custom DIV added -->
-		
-	 <div class="vc_row container vc_column-gap-default"> 	
-		
-
-<div class="wpb_column tm-column vc_column_container vc_col-sm-12 tm-zindex-0">
-	<div class="vc_column-inner  ">
-				<div class="wpb_wrapper">
-			<div class="themetechmount-boxes themetechmount-boxes-portfolio themetechmount-boxes-view-default themetechmount-boxes-col-three themetechmount-boxes-sortable-yes themetechmount-boxes-textalign-left tm-cta3-rev-heading">
-		<div class="themetechmount-boxes-inner themetechmount-boxes-portfolio-inner "><div class="themetechmount-box-heading-wrapper tm-element-align-left"><div class="tm-element-heading-wrapper tm-heading-inner tm-element-align-left tm-seperator-solid tm-heading-style-vertical "><section class="tm-vc_cta3-container"><div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-without-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><header class="tm-vc_cta3-content-header tm-wrap"><div class="tm-vc_cta3-headers tm-wrap-cell"><h4 class="tm-custom-heading " >Recently Completed</h4>
-<h2 class="tm-custom-heading " >Our Latest Projects</h2>
-</div><div class="heading-seperator"><span></span></div></header></div></div></div></section></div> <!-- .tm-element-heading-wrapper container --> </div> <!-- .tm-element-heading-wrapper container --> 
-				<div class="tm-sortable-wrapper tm-sortable-wrapper-portfolio"><nav class="tm-sortable-list"><ul><li class="tm-sortable-link tm-sortable-all-link"><a class="selected" href="javascript:void(0);" data-filter="*"> All </a></li><li class="tm-sortable-link"><a href="javascript:void(0);" data-filter=".banners">Banners</a></li><li class="tm-sortable-link"><a href="javascript:void(0);" data-filter=".commercial">Commercial</a></li><li class="tm-sortable-link"><a href="javascript:void(0);" data-filter=".residential">Residential</a></li><li class="tm-sortable-link"><a href="javascript:void(0);" data-filter=".printing">Printing</a></li></ul></nav></div>
-				<div class="row multi-columns-row themetechmount-boxes-row-wrapper tm-box-masnory">
-					<div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 banners commercial"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
-	<div class="themetechmount-post-item">	
-		<div class="themetechmount-post-item-inner">
-			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="portfolio/brand-logo-design/index.html"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/portfolio-02-1200x800-1-700x635.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2036" /></a></div>			<div class="themetechmount-box-overlay">
-				<div class="themetechmount-box-content tm-textwhite">						
-											<div class="themetechmount-box-category"><a href="portfolio-category/banners/index.html" rel="tag">Banners</a>, <a href="portfolio-category/commercial/index.html" rel="tag">Commercial</a></div>
-						
-					
-					<div class="themetechmount-box-title"><h4><a href="portfolio/brand-logo-design/index.html">Brand Logo Design</a></h4></div>					<a href="portfolio/brand-logo-design/index.html" class="themetechmount_pf_link"><i class="tm-vemlo-icon-arrow-right"></i></a>
-				</div>
-			</div>
-		</div>		
-
-	</div>
-</article></div><div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 banners residential"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
-	<div class="themetechmount-post-item">	
-		<div class="themetechmount-post-item-inner">
-			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="portfolio/business-card-design/index.html"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/portfolio-01-1200x800-1-700x635.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2044" /></a></div>			<div class="themetechmount-box-overlay">
-				<div class="themetechmount-box-content tm-textwhite">						
-											<div class="themetechmount-box-category"><a href="portfolio-category/banners/index.html" rel="tag">Banners</a>, <a href="portfolio-category/residential/index.html" rel="tag">Residential</a></div>
-						
-					
-					<div class="themetechmount-box-title"><h4><a href="portfolio/business-card-design/index.html">Business Card Design</a></h4></div>					<a href="portfolio/business-card-design/index.html" class="themetechmount_pf_link"><i class="tm-vemlo-icon-arrow-right"></i></a>
-				</div>
-			</div>
-		</div>		
-
-	</div>
-</article></div><div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 printing residential"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
-	<div class="themetechmount-post-item">	
-		<div class="themetechmount-post-item-inner">
-			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="portfolio/media-art-design/index.html"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/post-009-700x635.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2084" /></a></div>			<div class="themetechmount-box-overlay">
-				<div class="themetechmount-box-content tm-textwhite">						
-											<div class="themetechmount-box-category"><a href="portfolio-category/printing/index.html" rel="tag">Printing</a>, <a href="portfolio-category/residential/index.html" rel="tag">Residential</a></div>
-						
-					
-					<div class="themetechmount-box-title"><h4><a href="portfolio/media-art-design/index.html">Media Art Design</a></h4></div>					<a href="portfolio/media-art-design/index.html" class="themetechmount_pf_link"><i class="tm-vemlo-icon-arrow-right"></i></a>
-				</div>
-			</div>
-		</div>		
-
-	</div>
-</article></div><div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 banners residential"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
-	<div class="themetechmount-post-item">	
-		<div class="themetechmount-post-item-inner">
-			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="portfolio/company-branding/index.html"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/post-05-700x635.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2072" /></a></div>			<div class="themetechmount-box-overlay">
-				<div class="themetechmount-box-content tm-textwhite">						
-											<div class="themetechmount-box-category"><a href="portfolio-category/banners/index.html" rel="tag">Banners</a>, <a href="portfolio-category/residential/index.html" rel="tag">Residential</a></div>
-						
-					
-					<div class="themetechmount-box-title"><h4><a href="portfolio/company-branding/index.html">Company Branding</a></h4></div>					<a href="portfolio/company-branding/index.html" class="themetechmount_pf_link"><i class="tm-vemlo-icon-arrow-right"></i></a>
-				</div>
-			</div>
-		</div>		
-
-	</div>
-</article></div><div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 commercial printing"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
-	<div class="themetechmount-post-item">	
-		<div class="themetechmount-post-item-inner">
-			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper"><a href="portfolio/letterhead-design/index.html"><img width="700" height="635" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/portfolio-04-1200x800-1-700x635.jpg" class="attachment-themetechmount-img-portfolio size-themetechmount-img-portfolio wp-post-image" alt="" loading="lazy" data-id="2050" /></a></div>			<div class="themetechmount-box-overlay">
-				<div class="themetechmount-box-content tm-textwhite">						
-											<div class="themetechmount-box-category"><a href="portfolio-category/commercial/index.html" rel="tag">Commercial</a>, <a href="portfolio-category/printing/index.html" rel="tag">Printing</a></div>
-						
-					
-					<div class="themetechmount-box-title"><h4><a href="portfolio/letterhead-design/index.html">Letterhead Design</a></h4></div>					<a href="portfolio/letterhead-design/index.html" class="themetechmount_pf_link"><i class="tm-vemlo-icon-arrow-right"></i></a>
-				</div>
-			</div>
-		</div>		
-
-	</div>
-</article></div><div class="tm-box-col-wrapper col-lg-4 col-sm-6 col-md-4 col-xs-12 printing residential"><article class="themetechmount-box themetechmount-box-portfolio themetechmount-portfoliobox-style2 ">
-	<div class="themetechmount-post-item">	
-		<div class="themetechmount-post-item-inner">
-			<div class="tm-featured-wrapper tm-tm_portfolio-featured-wrapper tm-post-format-video"><div class="tm-blogbox-audio-mp3player-w"><iframe width="560" height="315" src="https://www.youtube.com/embed/g0QVlZr601k" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>			<div class="themetechmount-box-overlay">
-				<div class="themetechmount-box-content tm-textwhite">						
-											<div class="themetechmount-box-category"><a href="portfolio-category/printing/index.html" rel="tag">Printing</a>, <a href="portfolio-category/residential/index.html" rel="tag">Residential</a></div>
-						
-					
-					<div class="themetechmount-box-title"><h4><a href="portfolio/print-advertising/index.html">Print Advertising</a></h4></div>					<a href="portfolio/print-advertising/index.html" class="themetechmount_pf_link"><i class="tm-vemlo-icon-arrow-right"></i></a>
-				</div>
-			</div>
-		</div>		
-
-	</div>
-</article></div>
-				</div>
-			</div><!-- .themetechmount-boxes-inner -->   </div><!-- .themetechmount-boxes -->  		</div>
-	</div>
-</div>
-
-
-
-		
-	 </div> </div>
-
-
-<div class="vc_row-full-width vc_clearfix"></div>
-
-
-
-
-
-
-
-
-<div data-vc-full-width="true" data-vc-full-width-init="false" class="tm-row wpb_row vc_row-fluid vc_custom_1598360379596 tm-responsive-custom-70204275 vc_column-gap-default break-991-colum tm-zindex-0 tm-bgcolor-white tm-bgimage-position-center_center">
-
-		
-	 <div class="vc_row container vc_column-gap-default"> 	
-		
-
-<div class="wpb_column tm-column vc_column_container vc_col-sm-5 tm-zindex-0">
-	<div class="vc_column-inner  ">
-				<div class="wpb_wrapper">
-			<div class="tm-element-heading-wrapper tm-heading-inner tm-element-align-left tm-seperator-solid tm-heading-style-vertical "><section class="tm-vc_cta3-container"><div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-with-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><header class="tm-vc_cta3-content-header tm-wrap"><div class="tm-vc_cta3-headers tm-wrap-cell"><h4 class="tm-custom-heading " >Have any Questions?</h4>
-<h2 class="tm-custom-heading " >Our FAQ’S</h2>
-</div><div class="heading-seperator"><span></span></div></header><div class="tm-cta3-content-wrapper"><p>We’ve complied the list of frequently asked questions to help you along the way to obtain higher performance</p></div></div></div></div></section></div> <!-- .tm-element-heading-wrapper container --> <div  class="vc_toggle vc_toggle_round vc_toggle_color_skincolor  vc_toggle_size_md vc_toggle_active"><div class="vc_toggle_title"><h4>Why i should choose your company?</h4><i class="vc_toggle_icon"></i></div><div class="vc_toggle_content"><p><img loading="lazy" class="size-full wp-image-660 alignleft" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/tab-img-one.jpg" alt="" width="83" height="83" />The best sign for any business is one that will attract the most customers and give your a business the correct identity.</p>
-<p>Please visit our branch finder page and contact nearest <u><a href="#">sign maker</a></u> to discuss your requirements</p>
-</div></div><div  class="vc_toggle vc_toggle_round vc_toggle_color_skincolor  vc_toggle_size_md"><div class="vc_toggle_title"><h4>What material can I use for my sign?</h4><i class="vc_toggle_icon"></i></div><div class="vc_toggle_content"><p><img loading="lazy" class="size-full wp-image-662 alignleft" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/tab-img-two.jpg" alt="" width="83" height="83" /></p>
-<p>The best sign for any business is one that will attract the most customers and give your a business the correct identity.</p>
-<p>Please visit our branch finder page and contact nearest <u><a href="#">sign maker</a></u> to discuss your requirements</p>
-</div></div><div  class="vc_toggle vc_toggle_round vc_toggle_color_skincolor  vc_toggle_size_md"><div class="vc_toggle_title"><h4>What other services do you provide?</h4><i class="vc_toggle_icon"></i></div><div class="vc_toggle_content"><p><img loading="lazy" class="size-full wp-image-660 alignleft" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/tab-img-one.jpg" alt="" width="83" height="83" /></p>
-<p>The best sign for any business is one that will attract the most customers and give your a business the correct identity.</p>
-<p>Please visit our branch finder page and contact nearest <u><a href="#">sign maker</a></u> to discuss your requirements</p>
-</div></div><div  class="vc_toggle vc_toggle_round vc_toggle_color_skincolor  vc_toggle_size_md"><div class="vc_toggle_title"><h4>How quick is your service turnaround?</h4><i class="vc_toggle_icon"></i></div><div class="vc_toggle_content"><p><img loading="lazy" class="size-full wp-image-662 alignleft" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/tab-img-two.jpg" alt="" width="83" height="83" /></p>
-<p>The best sign for any business is one that will attract the most customers and give your a business the correct identity.</p>
-<p>Please visit our branch finder page and contact nearest <u><a href="#">sign maker</a></u> to discuss your requirements</p>
-</div></div>		</div>
-	</div>
-</div>
-
-
-
-
-
-<div class="wpb_column tm-column vc_column_container vc_col-sm-7 tm-zindex-0">
-	<div class="vc_column-inner  tm-responsive-custom-82005620">
-				<div class="wpb_wrapper">
-			<div class="themetechmount-boxes themetechmount-boxes-blog themetechmount-boxes-view-default themetechmount-boxes-col-one themetechmount-boxes-sortable-no themetechmount-boxes-textalign-left tm-cta3-rev-heading">
-		<div class="themetechmount-boxes-inner themetechmount-boxes-blog-inner "><div class="themetechmount-box-heading-wrapper tm-element-align-left"><div class="tm-element-heading-wrapper tm-heading-inner tm-element-align-left tm-seperator-solid tm-heading-style-vertical "><section class="tm-vc_cta3-container"><div class="tm-vc_general tm-vc_cta3 tm-cta3-only tm-vc_cta3-style-classic tm-vc_cta3-shape-rounded tm-vc_cta3-align-left tm-vc_cta3-color-transparent tm-vc_cta3-icon-size-md tm-vc_cta3-actions-no tm-cta3-without-desc"><div class="tm-vc_cta3_content-container"><div class="tm-vc_cta3-content"><header class="tm-vc_cta3-content-header tm-wrap"><div class="tm-vc_cta3-headers tm-wrap-cell"><h4 class="tm-custom-heading " >Our Blog And News</h4>
-<h2 class="tm-custom-heading " >Our Latest Articles</h2>
-</div><div class="heading-seperator"><span></span></div></header></div></div></div></section></div> <!-- .tm-element-heading-wrapper container --> </div> <!-- .tm-element-heading-wrapper container --> 
-				
-				<div class="row multi-columns-row themetechmount-boxes-row-wrapper">
-					<div class="tm-box-col-wrapper col-lg-12 col-sm-12 col-md-12 col-xs-12 ui-ux-design"><article class="themetechmount-box themetechmount-box-blog themetechmount-blogbox-format-  themetechmount-box-view-left-image themetechmount-blog-box-view-left-image">
-	<div class="post-item">
-		<div class="themetechmount-box-content">
-			<div class="col-md-4 themetechmount-box-img-left">
-				<div class="tm-featured-outer-wrapper tm-post-featured-outer-wrapper">
-					<div class="tm-featured-wrapper tm-post-featured-wrapper tm-post-format-"><a href="2020/08/colour-contrast-know-how-for-signage/index.html"><img width="520" height="300" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/blog-01-1200x800-1-520x300.jpg" class="attachment-themetechmount-img-blog-left size-themetechmount-img-blog-left wp-post-image" alt="" loading="lazy" data-id="2027" /></a></div>	
-				</div>
-			</div>
-			<div class="themetechmount-box-content col-md-8">
-				<div class="themetechmount-box-content-inner">
-					<div class="entry-header">						
-						<div class="themetechmount-box-title"><h4><a href="2020/08/colour-contrast-know-how-for-signage/index.html">Colour Contrast Know-How for Signage</a></h4></div>					
-					</div>
-					<div class="themetechmount-box-desc">					
-						<div class="themetechmount-box-desc-text">There are full service engage company is to provide solution for employees needs traini...</div>	
-							<div class="themetechmount-blogbox-footer-left themetechmount-wrap-cell"><a href="2020/08/colour-contrast-know-how-for-signage/index.html">Read More</a></div>					</div>
-				</div>				
-			</div>
-		</div>
-	</div>
-</article>
-</div><div class="tm-box-col-wrapper col-lg-12 col-sm-12 col-md-12 col-xs-12 logo-design"><article class="themetechmount-box themetechmount-box-blog themetechmount-blogbox-format-  themetechmount-box-view-left-image themetechmount-blog-box-view-left-image">
-	<div class="post-item">
-		<div class="themetechmount-box-content">
-			<div class="col-md-4 themetechmount-box-img-left">
-				<div class="tm-featured-outer-wrapper tm-post-featured-outer-wrapper">
-					<div class="tm-featured-wrapper tm-post-featured-wrapper tm-post-format-"><a href="2020/08/customer-experience-signage-trends/index.html"><img width="520" height="300" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/blog-02-1200x800-1-520x300.jpg" class="attachment-themetechmount-img-blog-left size-themetechmount-img-blog-left wp-post-image" alt="" loading="lazy" data-id="2029" /></a></div>	
-				</div>
-			</div>
-			<div class="themetechmount-box-content col-md-8">
-				<div class="themetechmount-box-content-inner">
-					<div class="entry-header">						
-						<div class="themetechmount-box-title"><h4><a href="2020/08/customer-experience-signage-trends/index.html">Customer Experience &#038; Signage Trends</a></h4></div>					
-					</div>
-					<div class="themetechmount-box-desc">					
-						<div class="themetechmount-box-desc-text">Ac placerat vestibulum lectus mauris ultrices eros in. Suspendisse sed nisi lacus viver...</div>	
-							<div class="themetechmount-blogbox-footer-left themetechmount-wrap-cell"><a href="2020/08/customer-experience-signage-trends/index.html">Read More</a></div>					</div>
-				</div>				
-			</div>
-		</div>
-	</div>
-</article>
-</div><div class="tm-box-col-wrapper col-lg-12 col-sm-12 col-md-12 col-xs-12 art-gallery"><article class="themetechmount-box themetechmount-box-blog themetechmount-blogbox-format-  themetechmount-box-view-left-image themetechmount-blog-box-view-left-image">
-	<div class="post-item">
-		<div class="themetechmount-box-content">
-			<div class="col-md-4 themetechmount-box-img-left">
-				<div class="tm-featured-outer-wrapper tm-post-featured-outer-wrapper">
-					<div class="tm-featured-wrapper tm-post-featured-wrapper tm-post-format-"><a href="2020/08/high-impact-seasonal-signage-to-set-go/index.html"><img width="520" height="300" src="<?php echo base_url();?>assets/wp-content/uploads/2020/08/blog-03-1200x800-1-520x300.jpg" class="attachment-themetechmount-img-blog-left size-themetechmount-img-blog-left wp-post-image" alt="" loading="lazy" data-id="2031" /></a></div>	
-				</div>
-			</div>
-			<div class="themetechmount-box-content col-md-8">
-				<div class="themetechmount-box-content-inner">
-					<div class="entry-header">						
-						<div class="themetechmount-box-title"><h4><a href="2020/08/high-impact-seasonal-signage-to-set-go/index.html">High-Impact Seasonal Signage to Set Go</a></h4></div>					
-					</div>
-					<div class="themetechmount-box-desc">					
-						<div class="themetechmount-box-desc-text">Cursus turpis massa tincidunt dui. Nec feugiat in fermentum posuere. Ut porttitor leoma...</div>	
-							<div class="themetechmount-blogbox-footer-left themetechmount-wrap-cell"><a href="2020/08/high-impact-seasonal-signage-to-set-go/index.html">Read More</a></div>					</div>
-				</div>				
-			</div>
-		</div>
-	</div>
-</article>
-</div>
-				</div>
-			</div><!-- .themetechmount-boxes-inner -->   </div><!-- .themetechmount-boxes -->  		</div>
-	</div>
-</div>
-
-
-
-		
-	 </div> </div>
 
 
 <div class="vc_row-full-width vc_clearfix"></div>

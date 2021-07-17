@@ -9,48 +9,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<div class="site-footer-w">					
 					<div class="footer-rows">
 						<div class="footer-rows-inner">
-														
-
-
 <div id="first-footer" class="sidebar-container first-footer  tm-bg tm-bgcolor-transparent tm-textcolor-white tm-bgimage-no tm-footerrow-sepnone tm-widgetsep-no" role="complementary">
 	<div class="first-footer-bg-layer tm-bg-layer"></div>
 	<div class="container tm-container-for-footer">
 		<div class="first-footer-inner">
 			<div class="row multi-columns-row">
-
-											<div class="widget-area col-xs-12 col-sm-6 col-md-6 col-lg-6 first-widget-area">
-							<aside id="enhancedtextwidget-1" class="widget-even widget-2 widget widget_text enhanced-text-widget"><div class="textwidget widget-text"><h3>Join Our Newsletter</h3>
-Sign up for our monthly newsletter for the latest Vemlo Downs news, ideas for creation.</div></aside>							</div><!-- .widget-area -->
-														<div class="widget-area col-xs-12 col-sm-6 col-md-6 col-lg-6 first-widget-area">
-							<aside id="enhancedtextwidget-2" class="widget-even widget-2 widget widget_text enhanced-text-widget"><div class="textwidget widget-text"><script>(function() {
-	window.mc4wp = window.mc4wp || {
-		listeners: [],
-		forms: {
-			on: function(evt, cb) {
-				window.mc4wp.listeners.push(
-					{
-						event   : evt,
-						callback: cb
-					}
-				);
-			}
-		}
-	}
-})();
-</script><!-- Mailchimp for WordPress v4.8.1 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-732" method="post" data-id="732" data-name="Subscribe form" ><div class="mc4wp-form-fields"><div class="mailchimp-inputbox">
- <input type="email" name="EMAIL" placeholder="Enter Your Email Address..." required=""/>
- <button class="btn" type="submit" value="Subscribe Now">Subscribe Now<i class=" tm-vemlo-icon-angle-right"></i></button>
-</div></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1626211172" /><input type="hidden" name="_mc4wp_form_id" value="732" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div></aside>							</div><!-- .widget-area -->
-											
-				
-          
-			</div><!-- .row.multi-columns-row -->
+		</div><!-- .row.multi-columns-row -->
 		</div><!-- .first-footer-inner -->
 	</div><!--  -->
 </div><!-- #secondary -->
-
-							
-
 <div id="second-footer" class="sidebar-container second-footer tm-bg tm-bgcolor-transparent tm-textcolor-white tm-bgimage-no" role="complementary">
 	<div class="second-footer-bg-layer tm-bg-layer"></div>
 	<div class="container tm-container-for-footer">
@@ -58,7 +25,7 @@ Sign up for our monthly newsletter for the latest Vemlo Downs news, ideas for cr
 			<div class="row multi-columns-row">
       
 											<div class="widget-area col-xs-12 col-sm-4 col-md-4 col-lg-4 second-widget-area">
-								<aside id="enhancedtextwidget-3" class="widget-even widget-2 widget widget_text enhanced-text-widget"><h3 class="widget-title">About Us</h3><div class="textwidget widget-text">We combine total coverage with local knowledge to offer our clients the most effective signage  solutions and Services. 
+								<aside id="enhancedtextwidget-3" class="widget-even widget-2 widget widget_text enhanced-text-widget"><h3 class="widget-title">About Us</h3><div class="textwidget widget-text">Dazzle your Clients or Customers with an Amazing Look. Quality, appealing Signage & Branding attracts new customers, <span style="color:#ff6229;"><strong>Be Seen, Be Known!</strong></span> 
 <br>
 <br>
 <div class="themetechmount-social-links-wrapper"><ul class="social-icons"><li class="tm-social-facebook"><a class=" tooltip-top" target="_blank" href="#" data-tooltip="Facebook"><i class="tm-vemlo-icon-facebook"></i></a></li>
@@ -66,18 +33,14 @@ Sign up for our monthly newsletter for the latest Vemlo Downs news, ideas for cr
 <li class="tm-social-flickr"><a class=" tooltip-top" target="_blank" href="#" data-tooltip="Flickr"><i class="tm-vemlo-icon-flickr"></i></a></li>
 <li class="tm-social-linkedin"><a class=" tooltip-top" target="_blank" href="#" data-tooltip="LinkedIn"><i class="tm-vemlo-icon-linkedin"></i></a></li>
 </ul></div></div></aside>							</div><!-- .widget-area -->
-													<div class="widget-area col-xs-12 col-sm-4 col-md-4 col-lg-4 second-widget-area">
-								<aside id="nav_menu-1" class="widget-even widget-2 tm-widget_nav_menu widget widget_nav_menu"><h3 class="widget-title">Our Services</h3><div class="menu-footer-service-link-container"><ul id="menu-footer-service-link-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-722"><a href="#">Estimate</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-723"><a href="#">Our Clients</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-724"><a href="#">Contact</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-725"><a href="#">Design</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-726"><a href="#">Signs</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727"><a href="#">Projects</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-728"><a href="#">About Us</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-729"><a href="#">Installation</a></li>
+						<div class="widget-area col-xs-12 col-sm-4 col-md-4 col-lg-4 second-widget-area">
+	<aside id="nav_menu-1" class="widget-even widget-2 tm-widget_nav_menu widget widget_nav_menu"><h3 class="widget-title">Our Services</h3><div class="menu-footer-service-link-container"><ul id="menu-footer-service-link-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-722"><a href="#">Premise Branding</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-723"><a href="#">Signage</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-724"><a href="#">Vehicle Branding</a></li>
+
 </ul></div></aside>							</div><!-- .widget-area -->
-													<div class="widget-area col-xs-12 col-sm-4 col-md-4 col-lg-4 second-widget-area">
-								<aside id="enhancedtextwidget-4" class="widget-even widget-2 widget widget_text enhanced-text-widget"><h3 class="widget-title">Contact Info</h3><div class="textwidget widget-text">Get in touch with us for your any kind of inquiry
+					<div class="widget-area col-xs-12 col-sm-4 col-md-4 col-lg-4 second-widget-area">
+<aside id="enhancedtextwidget-4" class="widget-even widget-2 widget widget_text enhanced-text-widget"><h3 class="widget-title">Contact Info</h3><div class="textwidget widget-text">Get in touch with us for your any kind of inquiry
 <div class="vc_empty_space"   style="height: 17px"><span class="vc_empty_space_inner"></span></div>
 <ul class="vemlo_contact_widget_wrapper">
 <li class="themetechmount-contact-phonenumber tm-vemlo-icon-phone">(+01) 123 456 7890</li>
@@ -101,7 +64,7 @@ Sign up for our monthly newsletter for the latest Vemlo Downs news, ideas for cr
 		<div class="bottom-footer-inner">
 			<div class="row multi-columns-row">
 				<div class="col-xs-12 col-sm-7 tm-footer2-left ">
-					2020 <a href="index.html">Vemlo</a> . All Rights Reserved by <a href="http://themetechmount.com/">Themetechmount</a>				</div><!--.footer menu -->
+					2021 <a href="<?php echo site_url(); ?>">B-Mark</a> . All Rights Reserved				</div><!--.footer menu -->
 
 				<div class="col-xs-12 col-sm-5 tm-footer2-right ">
 					<ul class="footer-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-730"><a href="#">Privacy Policy</a></li>
