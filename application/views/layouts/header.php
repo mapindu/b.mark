@@ -384,7 +384,7 @@ section.error-404 .search-form .search-field:not(:focus) {
 								data-frame_0="y:100%;"
 								data-frame_1="e:power4.inOut;st:310;sp:900;sR:310;"
 								data-frame_999="o:0;st:w;sR:7790;"
-								style="z-index:9;font-family:Open Sans;"
+								style="z-index:9;font-family:Open Sans; color: #05396a;"
 							>We have been <span class=tm-skincolor>Signage &amp; Branding</span><br />
 							 
 							</rs-layer><!--
